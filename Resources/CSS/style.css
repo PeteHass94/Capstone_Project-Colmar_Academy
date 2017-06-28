@@ -278,13 +278,14 @@ width: 100%;
     width: 100%;
     margin-bottom: 32px;
     margin-top: 16px;
-    margin-right: 16px;
+    margin-right: 24px;
     background-color: #85C8DD;
   }
   #mobile.thumbnail .title {
     margin: 8px 0px;
     border: 5px black;
     padding: 16px;
+    margin-right: 16px;
     background-color: grey;
   }
 
